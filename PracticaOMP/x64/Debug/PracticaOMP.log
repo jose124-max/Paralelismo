@@ -1,0 +1,5 @@
+﻿  PracticaOMP.cpp
+C:\Users\Alvar\source\repos\PracticaOMP\PracticaOMP\PracticaOMP.cpp(21,13): warning C4849: La cláusula "collapse" de OpenMP se omite en la directiva "parallel for"
+  PracticaOMP.vcxproj -> C:\Users\Alvar\source\repos\PracticaOMP\x64\Debug\PracticaOMP.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
